@@ -1,0 +1,6 @@
+Cargo.lock
+.env
+target/
+.idea/
+*.rs.bk
+*.log
