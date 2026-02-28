@@ -2,6 +2,11 @@
 name = "pumpfun-new-rust-sdk"
 version = "0.1.0"
 edition = "2021"
+description = "Rust SDK for interacting with Pump.fun protocol on Solana"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/anuragnegi000/pumpfun-rust-sdk.git"
+keywords = ["solana", "pumpfun", "sdk", "defi", "trading"]
+categories = ["api-bindings", "cryptography::cryptocurrencies"]
 
 [dependencies]
 borsh = { version = "1.5", features = ["derive"] }
